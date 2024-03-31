@@ -1,5 +1,5 @@
-                                                                  NAME:Hemapriya K
-                                                                  REGNO:212223040066
+                                                                  NAME:PRIYANGHA
+                                                                  REGNO:212223040157
 
 
 # EX:5  Multiple server with infinite capacity - (M/M/c):(oo/FIFO)
